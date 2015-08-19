@@ -1,0 +1,20 @@
+{
+  "name": "koa-talk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "async.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jimmy Farrell <jfarrell22@gmail.com> (http://heyjimmy.co)",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "koa": "^0.21.0",
+    "koa-bodyparser": "^2.0.1",
+    "koa-router": "^5.1.2",
+    "mongoose": "^4.1.3"
+  }
+}
