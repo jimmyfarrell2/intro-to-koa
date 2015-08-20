@@ -8,7 +8,7 @@ The code in this repo was prepared for a talk at the [NYC NodeJS meetup](http://
 2. Make sure you have `npm` and `node` installed
 3. Run `npm install` to install dependencies
 4. Run `node seed` to seed database
-5. The 4 numbered JS files must be run with `node --harmony` — the `--harmony` flag gives you access to ES6 generators
+5. The 4 numbered JS files must be run with `node --harmony`; the `--harmony` flag gives you access to ES6 generators
 
 ## Additional Koa Resources
 
