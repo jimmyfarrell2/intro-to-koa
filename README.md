@@ -1,7 +1,7 @@
 # Intro to Koa
 
 ## About this Repository
-The code in this repo was prepared for a talk at the [NodeJS](http://www.meetup.com/nodejs/) on Aug 19, 2015. It is meant to give a basic introduction to the Koa web framework for Node.js, while comparing and contrasting to the Express web framework.
+The code in this repo was prepared for a talk at the [NYC NodeJS meetup](http://www.meetup.com/nodejs/) on Aug 19, 2015. It is meant to give a basic introduction to the Koa web framework for Node.js, while comparing and contrasting to the Express web framework.
 
 ## Additional Koa Resources
 
