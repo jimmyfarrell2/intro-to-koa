@@ -3,6 +3,13 @@
 ## About this Repository
 The code in this repo was prepared for a talk at the [NYC NodeJS meetup](http://www.meetup.com/nodejs/) on Aug 19, 2015. It is meant to give a basic introduction to the Koa web framework for Node.js, while comparing and contrasting to the Express web framework.
 
+## Setup
+1. Clone this repository
+2. Make sure you have `npm` and `node` installed
+3. Run `npm install` to install dependencies
+4. Run `node seed` to seed database
+5. The 4 numbered JS files must be run with `node --harmony` — the `--harmony` flag gives you access to ES6 generators
+
 ## Additional Koa Resources
 
 * [Koa Website](http://koajs.com/)
