@@ -6,7 +6,7 @@ The code in this repo was prepared for a tech talk at the [NYC NodeJS meetup](ht
 ## Setup
 1. Fork this repository
 2. Clone to your machine
-2. Make sure you have `npm`, `node`, and MongoDB installed
+2. Make sure you have [node](https://nodejs.org/), [npm](https://www.npmjs.com/), and [MongoDB](https://www.mongodb.org/) installed
 3. Run `npm install` to install dependencies
 4. Run `node seed` to seed database
 5. The 4 numbered JS files must be run with `node --harmony`; the `--harmony` flag gives you access to ES6 generators
